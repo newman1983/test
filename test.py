@@ -1,3 +1,5 @@
 print("Hello World")
 print("Hi")
 print("Bye")
+print("good night")
+print("good morning")
